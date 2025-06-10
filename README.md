@@ -815,7 +815,7 @@ El notebook demuestra que **0.01-0.1** es el rango óptimo para la mayoría de p
 - Modern frameworks (TensorFlow, PyTorch)
 - Hyperparameter optimization
 
-### 📚 Recursos Adicionales Recomendados / Additional Recommended Resources
+### 📚 Additional Recommended Resources
 
 **📖 Libros / Books:**
 - "Deep Learning" por Ian Goodfellow, Yoshua Bengio, Aaron Courville
@@ -852,17 +852,7 @@ This is an educational project. Contributions that improve the learning experien
 
 This educational material is provided for learning purposes. Feel free to use and adapt for educational use.
 
-## 🙏 Acknowledgments
-
-This project was created to make gradient descent accessible to Spanish and English speaking students. The implementations are designed for educational clarity rather than production efficiency.
-
 ---
-
-**🎉 ¡Proyecto Educativo Completado! / Educational Project Completed!**
-
-*¡Felicitaciones por completar este viaje educativo integral a través del descenso del gradiente! Este README y notebook te proporcionan una base sólida para entender y aplicar uno de los algoritmos más importantes en inteligencia artificial.*
-
-*Congratulations on completing this comprehensive educational journey through gradient descent! This README and notebook provide you with a solid foundation for understanding and applying one of the most important algorithms in artificial intelligence.*
 
 **🧠 Continúa aprendiendo, experimentando y construyendo el futuro de la IA!**  
 *Keep learning, experimenting, and building the future of AI!*
